@@ -1,4 +1,4 @@
-### Hi there. I am Vinicius DIas👋
+### Hi there. I am Vinicius Dias 👋
 
 - 🔭 I'm currently working as a front-end developer (Vue.js + Typescript)
 - 🌱 I’m currently learning English
