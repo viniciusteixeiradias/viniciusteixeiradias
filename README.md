@@ -3,6 +3,7 @@
 - 🔭 I'm currently working as a front-end developer (Vue.js + Typescript)
 - 🌱 I’m currently learning English
 - 📫 How to reach me: viniciustdias2001@gmail.com
+- 💻 Portfolio https://app.netlify.com/teams/viniciusteixeiradias/overview
 - 😄 Pronouns: he/his
 
 <div align="center">
