@@ -5,6 +5,7 @@
 - 📫 How to reach me: viniciustdias2001@gmail.com
 - 💻 Portfolio https://app.netlify.com/teams/viniciusteixeiradias/overview
 - 😄 Pronouns: he/his
+- My profile on LeetCode: https://leetcode.com/viniciusteixeiradias/
 
 <div align="center">
   <a href="https://github.com/viniciusteixeiradias">
