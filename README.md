@@ -6,6 +6,7 @@
 - 💻 Portfolio https://app.netlify.com/teams/viniciusteixeiradias/overview
 - 😄 Pronouns: he/his
 - 🤯 My profile on LeetCode: https://leetcode.com/viniciusteixeiradias/
+- 📁 My CV 
 
 <div align="center">
   <a href="https://github.com/viniciusteixeiradias">
