@@ -6,7 +6,7 @@
 - 💻 Portfolio https://app.netlify.com/teams/viniciusteixeiradias/overview
 - 😄 Pronouns: he/his
 - 🤯 My profile on LeetCode: https://leetcode.com/viniciusteixeiradias/
-- 📁 My CV 
+- 🧾 Scroll down ↓ to view my CV or [Download](https://github.com/viniciusteixeiradias/my-cv/raw/main/Vin%C3%ADcius%20Teixeira%20Dias.pdf)
 
 <div align="center">
   <a href="https://github.com/viniciusteixeiradias">
@@ -36,3 +36,9 @@
   ![Snake animation](https://github.com/viniciusteixeiradias/viniciusteixeiradias/blob/output/github-contribution-grid-snake.svg)
 </div>
  
+<object data="https://github.com/viniciusteixeiradias/my-cv/blob/main/Vin%C3%ADcius%20Teixeira%20Dias.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/viniciusteixeiradias/my-cv/raw/main/Vin%C3%ADcius%20Teixeira%20Dias.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+  
