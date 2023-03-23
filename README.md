@@ -36,9 +36,6 @@
   ![Snake animation](https://github.com/viniciusteixeiradias/viniciusteixeiradias/blob/output/github-contribution-grid-snake.svg)
 </div>
  
-<object data="https://github.com/viniciusteixeiradias/my-cv/blob/main/Vin%C3%ADcius%20Teixeira%20Dias.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download my curriculum to view it: <a href="https://github.com/viniciusteixeiradias/my-cv/raw/main/Vin%C3%ADcius%20Teixeira%20Dias.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+ ### Scan this QR Code to see my resume 🧾:
+<img src="https://user-images.githubusercontent.com/69281620/227127502-da70f938-0c1e-4e0a-9c8e-4d9d57d181bf.png"  width="300" height="300">
   
