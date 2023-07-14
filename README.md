@@ -1,10 +1,8 @@
 ### Hi there. I am Vinicius Dias 👋
 
-- 🔭 I'm currently working as a front-end developer (Vue.js + Typescript)
-- 🌱 I’m currently learning English
+- 🔭 I'm currently working as a full stack developer Front (Vue.js + Typescript), Back (Python + PostgreSQL), Docker and AWS.
 - 📫 How to reach me: viniciustdias2001@gmail.com
 - 💻 Portfolio https://viniciusteixeiradias.github.io/
-- 😄 Pronouns: he/his
 - 🤯 My profile on LeetCode: https://leetcode.com/viniciusteixeiradias/
 - 🧾 Scroll down ↓ to view my CV or [Download](https://github.com/viniciusteixeiradias/my-cv/raw/main/Vin%C3%ADcius%20Teixeira%20Dias.pdf)
 
