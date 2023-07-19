@@ -31,7 +31,10 @@
   <a href = "mailto:viniciustdias2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-dias-46536715a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
-  ![Snake animation](https://github.com/viniciusteixeiradias/viniciusteixeiradias/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </div>
  
  ### Scan this QR Code to see my resume 🧾:
