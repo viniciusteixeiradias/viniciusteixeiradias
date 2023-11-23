@@ -4,7 +4,7 @@
 - 📫 How to reach me: viniciustdias2001@gmail.com
 - 💻 Portfolio https://viniciusteixeiradias.github.io/
 - 🤯 My profile on LeetCode: https://leetcode.com/viniciusteixeiradias/
-- 🧾 Scroll down ↓ to view my CV or [Download](https://github.com/viniciusteixeiradias/my-cv/raw/main/Vin%C3%ADcius%20Teixeira%20Dias.pdf)
+- 🧾 Click here to [download](https://github.com/viniciusteixeiradias/my-cv/raw/main/Vin%C3%ADcius%20Teixeira%20Dias.pdf) my CV.
 
 <div align="center">
   <a href="https://github.com/viniciusteixeiradias">
