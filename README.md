@@ -46,7 +46,4 @@
     />
   </picture>
 </div>
- 
- ### Scan this QR Code to see my resume 🧾:
-<img src="https://user-images.githubusercontent.com/69281620/227127502-da70f938-0c1e-4e0a-9c8e-4d9d57d181bf.png"  width="300" height="300">
   
